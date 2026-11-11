@@ -1,0 +1,6 @@
+{
+  "name": "ارسال خودکار به تلگرام",
+  "description": "ارسال خودکار عکس‌های جدید دوربین به ربات تلگرام با صف پایدار و خدمات پس‌زمینه",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
